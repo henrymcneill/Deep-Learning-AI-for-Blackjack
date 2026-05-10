@@ -1,2 +1,9 @@
+This project contains modified code derived from PyTorch tutorials --> intermediate sources --> reinforcement_q_learning.py
+licensed under the BSD 3-Clause License.
+
+Copyright (c) 2017-2022 Adam Paszke <https://github.com/apaszke>, Mark Towers <https://github.com/pseudo-rnd-thoughts>, 
+Copyright (c) 2025-2026 henrymcneill
+
+
 # Deep-Learning-AI-for-Blackjack
 A Python implementation of a deep reinforcement learning model using PyTorch to play Blackjack. Built by adapting an existing Deep Q-Learning algorithm, this project focuses on training an AI capable of handling the stochastic nature of Blackjack and learning optimal decision-making strategies through experience.
